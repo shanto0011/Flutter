@@ -1,0 +1,5 @@
+User can identify which type of internet connect their device.
+Basically i sub-parted into wifi and Mobile data
+
+Flutter plugins are :
+Using Bloc provider, Internet connectivity plus
