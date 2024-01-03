@@ -1,3 +1,2 @@
-https://github.com/shanto0011/Flutter/assets/135007992/0a3a08b8-75de-415c-bc36-932b89037f65
 # it's not only that. It's a combination of flutter state management (getx) and backend api controll(Laravel)
-
+https://github.com/shanto0011/Flutter/assets/135007992/0a3a08b8-75de-415c-bc36-932b89037f65
